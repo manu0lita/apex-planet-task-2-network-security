@@ -1,0 +1,8 @@
+# Nmap 7.99 scan initiated Mon Sep 21 01:36:25 2026 as: /usr/lib/nmap/nmap -sS -oN vulnweb-tcp.txt 44.238.29.244
+Nmap scan report for ec2-44-238-29-244.us-west-2.compute.amazonaws.com (44.238.29.244)
+Host is up (0.019s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Mon Sep 21 01:36:33 2026 -- 1 IP address (1 host up) scanned in 7.74 seconds
